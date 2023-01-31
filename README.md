@@ -6,7 +6,7 @@ A collection of great things I have come across that should be of interest to an
 Curated list of sources that shape my thinking and I find myself coming back to.
 
 ### Podcasts 
-<details><summary>[Lex Fridman Podcast](https://lexfridman.com/podcast/)</p></summary> 
+<details><summary><a href="https://lexfridman.com/podcast/" target="_blank">Lex Fridman Podcast</a></summary> 
 An incredible podcast with domain experts across AI, computer science, biology, physics, philosophy, history, economics, and more. These are not casual listens, but I enjoy nearly every episode as Lex does a tremendous job of exploring some great minds. 
 </details>
 [All-in Podcast](https://www.youtube.com/@allin) <br>
