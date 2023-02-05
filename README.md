@@ -42,21 +42,3 @@ Things I have recently read/watched/listened to as well as things I am currently
 * [Quanta Magazine](https://www.youtube.com/@QuantaScienceChannel)'s video [Could One Physics Theory Unlock the Mysteries of the Brain?](https://www.youtube.com/watch?v=hjGFp7lMi9A) which discuses 
     - The accompanying article is [When Does the Brain Operate at Peak Performance?](https://www.quantamagazine.org/a-physical-theory-for-when-the-brain-performs-best-20230131/)  
 
-## On My List 
-
-
-
-
-
-## Youtube Playlists
-
-
-
-## Podcasts 
-
-
-## Research Papers 
-
-
-
-## Books I am reading 
