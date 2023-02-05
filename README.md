@@ -7,7 +7,7 @@ Here is curated list of sources that shape my thinking and I find myself coming 
 
 ### Podcasts 
 <details><summary><a href="https://lexfridman.com/podcast/" target="_blank">Lex Fridman Podcast</a></summary> 
-An incredible podcast with domain experts across AI, computer science, biology, physics, philosophy, history, economics, and more. These are not casual listens, but I enjoy nearly every episode as Lex does a tremendous job of exploring some great minds. 
+An incredible podcast with domain experts across AI, computer science, biology, physics, philosophy, history, economics, and more. These are not casual listens, but I enjoy nearly every episode as Lex does a tremendous job of exploring great minds. 
 </details>
 <details><summary><a href="https://www.youtube.com/@allin">All-in Podcast</a></summary>
     This podcast is a window into the thought processes of some of Silicon valley's top venture capitalists who make the episodes fun and insightful. The "Besties" (Chamath Palihapitiya, Jason Calacanis, David Sacks & David Friedberg) discuss today's important issues exploring nuance and different worldviews while leveraging each bestie's expertise.     
