@@ -3,7 +3,7 @@
 A collection of things I have come across that should be of interest to any curious mind. This serves a dual purpose, both as a way to share things that interest me and as a method of cataloging resources to revisit.
 
 ## Top Recommendations 
-Here is curated list of sources that shape my thinking and I find myself coming back to.
+Here is curated list of resources that shape my thinking and that I find myself coming back to.
 
 ### Podcasts 
 <details><summary><a href="https://lexfridman.com/podcast/" target="_blank">Lex Fridman Podcast</a></summary> 
