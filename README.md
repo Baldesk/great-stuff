@@ -37,7 +37,7 @@ Summary coming soon</details>
 Things I have recently read/watched/listened to as well as things I am currently exploring
 
 * Yannic Kilcher's Interview with Sebastian Risi "[The Future of AI is Self-Organizing and Self-Assembling](https://www.youtube.com/watch?v=_7xpGve9QEE)" is something I continue to return to as I believe it could be a good direction for my thesis work
-* Lex Fridman's interview with Jeffrey Shainline who specializes in Optoelectronic Intelligence [here](https://www.youtube.com/watch?v=EwueqdgIvq4). I foud the descriptions of neuromorphic computing to be especially interesting and think the talk as a whole is insightful.
+* Lex Fridman's interview with Jeffrey Shainline who specializes in Optoelectronic Intelligence [here](https://www.youtube.com/watch?v=EwueqdgIvq4). I found the descriptions of neuromorphic computing to be especially interesting and think the talk as a whole is insightful.
 * Book by Peter Robin Hiesinger "[The Self-Assembling Brain](http://selfassemblingbrain.com/)"
 * [Quanta Magazine](https://www.youtube.com/@QuantaScienceChannel)'s video [Could One Physics Theory Unlock the Mysteries of the Brain?](https://www.youtube.com/watch?v=hjGFp7lMi9A) which discuses 
     - The accompanying article is [When Does the Brain Operate at Peak Performance?](https://www.quantamagazine.org/a-physical-theory-for-when-the-brain-performs-best-20230131/)  
