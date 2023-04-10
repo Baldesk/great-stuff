@@ -36,6 +36,9 @@ Summary coming soon</details>
 ## Recent Updates  
 Things I have recently read/watched/listened to as well as things I am currently exploring
 
+* Lex's Fridman's recent podcasts with both [Sam Altman](https://www.youtube.com/watch?v=L_Guz73e6fw&t=8s) and [Eliezer Yudkowsky](https://www.youtube.com/watch?v=AaTRHFaaPG8&t=2s) discussing GPT-4 and the future of artificial intelligence systems. I found the interview with Sam to be comforting that the head of OpenAI is thinking hard about some of the toughest problems and is still open to criticism and feedback from the community and broader world. I do not think it is too contraversial to say that he is one of the most important figures in AI and thus in-turn the future of humanity. However, Lex's conversation with Eliezer severly dampened my outlook because of the challenging problem of AI alignment. This conversation reminded me of the criticality we find ourselves in needing to solve the alignment problem. The conversation is a difficult and stark reminder of why I chose to go into this field and will stick with me for a long time. 
+
+
 * Yannic Kilcher's Interview with Sebastian Risi "[The Future of AI is Self-Organizing and Self-Assembling](https://www.youtube.com/watch?v=_7xpGve9QEE)" is something I continue to return to as I believe it could be a good direction for my thesis work
 * Lex Fridman's interview with Jeffrey Shainline who specializes in Optoelectronic Intelligence [here](https://www.youtube.com/watch?v=EwueqdgIvq4). I found the descriptions of neuromorphic computing to be especially interesting and think the talk as a whole is insightful.
 * Book by Peter Robin Hiesinger "[The Self-Assembling Brain](http://selfassemblingbrain.com/)"
