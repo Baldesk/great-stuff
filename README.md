@@ -42,6 +42,8 @@ Summary coming soon</details>
 
 ## Recent Updates  
 Things I have recently read/watched/listened to as well as things I am currently exploring
+* [The Last Question](https://users.ece.cmu.edu/~gamvrosi/thelastq.html) By Isaac Asimov
+
 
 * MLST joint interview of [Stephen Wolfram and Karl Friston](https://www.youtube.com/watch?v=6iaT-0Dvhnc&pp=ygUPc3RlcGhlbiB3b2xmcmFt)
 * Podcasts with Stephen Wolfram:
