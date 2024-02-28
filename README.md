@@ -40,6 +40,10 @@ Summary coming soon</details>
 [Andrew Huberman](https://www.youtube.com/@hubermanlab) - Neuroscience and Biology Practical tools <br>
 
 
+### Other 
+* The process required to build modern microchips (the silicon "brains" of modern technology) requires the most sophisticated machines on the planet (EUV machines from ASML)  -> [watch](https://www.youtube.com/watch?v=f0gMdGrVteI)
+
+
 ## Recent Updates  
 Things I have recently read/watched/listened to as well as things I am currently exploring
 * [The Last Question](https://users.ece.cmu.edu/~gamvrosi/thelastq.html) By Isaac Asimov
