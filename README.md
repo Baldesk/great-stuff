@@ -6,7 +6,7 @@ A collection of things I have come across that should be of interest to any curi
 Here is curated list of resources that shape my thinking and that I find myself coming back to.
 
 ### Books 
-#### Cannot Get Enough(read multiple times)
+#### Cannot Get Enough (read multiple times)
 - [Sapiens: A Brief History of Humankind](https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095) by Yuval Noah Harari
 - [Zero to One: Notes on Startups, or How to Build the Future](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296) by Peter Thiel, with Blake Masters
 - [A Thousand Brains: A New Theory of Intelligence](https://www.amazon.com/Thousand-Brains-New-Theory-Intelligence/dp/1541675819) by Jeff Hawkins
